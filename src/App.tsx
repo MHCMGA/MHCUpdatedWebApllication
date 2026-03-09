@@ -5,11 +5,13 @@ import LossRunsPage from "./pages/LossRunsPage";
 import ClaimsPage from "./pages/ClaimsPage";
 
 export default function App(): JSX.Element {
+  const logoSrc = `${import.meta.env.BASE_URL}mhc2.png`;
+
   return (
     <div className="app-root">
       <header className="top-bar">
         <NavLink to="/" aria-label="Home" className="home-logo-link">
-          <img src="/mhc2.png" alt="MHCMGA Home" className="home-logo" />
+          <img src={logoSrc} alt="MHCMGA Home" className="home-logo" />
         </NavLink>
 
         <nav className="top-nav-links" aria-label="Main navigation">
