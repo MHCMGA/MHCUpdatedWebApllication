@@ -1,0 +1,80 @@
+[
+  {
+    "carrier": "Bulldog National RRG, Inc",
+    "states": [
+      "North Carolina",
+      "Alabama",
+      "Arizona",
+      "California",
+      "Florida",
+      "Georgia",
+      "Illinois",
+      "Indiana",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maryland",
+      "Minnesota",
+      "Missouri",
+      "Nevada",
+      "Ohio",
+      "Oklahoma",
+      "Pennsylvania",
+      "Tennessee",
+      "Virginia",
+      "Washington"
+    ]
+  },
+  {
+    "carrier": "Southwind RRG, Inc",
+    "states": [
+      "North Carolina",
+      "Alabama",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Florida",
+      "Georgia",
+      "Illinois",
+      "Indiana",
+      "Kentucky",
+      "Louisiana",
+      "Maryland",
+      "Mississippi",
+      "Missouri",
+      "Nevada",
+      "Ohio",
+      "Oklahoma",
+      "Pennsylvania",
+      "South Carolina",
+      "Tennessee",
+      "Virginia",
+      "Washington"
+    ]
+  },
+  {
+    "carrier": "Commodore RRG, Inc",
+    "states": [
+      "Montana",
+      "Alabama",
+      "Arizona",
+      "California",
+      "Florida",
+      "Georgia",
+      "Illinois",
+      "Indiana",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Mississippi",
+      "North Carolina",
+      "Ohio",
+      "Oregon",
+      "Pennsylvania",
+      "Tennessee",
+      "Texas",
+      "Virginia",
+      "Washington"
+    ]
+  }
+]
