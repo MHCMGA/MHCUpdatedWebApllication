@@ -41,13 +41,7 @@ export default function LossRunsPage(): JSX.Element {
       </section>
 
       <section className="panel appointed-panel">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet, velit ac mollis
-          ullamcorper, tortor neque faucibus est, sed bibendum erat justo et velit. Integer finibus
-          tincidunt sem, eu ullamcorper nisi cursus sed. Vestibulum ante ipsum primis in faucibus orci
-          luctus et ultrices posuere cubilia curae; Sed tristique, magna non vulputate tempus, nibh nisl
-          luctus neque, non gravida nisl sem sed mauris.
-        </p>
+
 
         <form className="appointment-form" onSubmit={handleSubmit}>
           <div className="form-grid two-col">
